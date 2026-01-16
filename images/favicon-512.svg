@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="white"/>
+  <!-- Open book -->
+  <path d="M96 144C96 144 136 120 192 120C248 120 288 144 288 144V368C288 368 248 344 192 344C136 344 96 368 96 368V144Z" fill="#2563eb"/>
+  <path d="M288 144C288 144 328 120 384 120C440 120 480 144 480 144V368C480 368 440 344 384 344C328 344 288 368 288 368V144Z" fill="#1d4ed8"/>
+  
+  <!-- Graduation cap -->
+  <path d="M256 64L96 128L256 192L416 128L256 64Z" fill="#f59e0b"/>
+  <path d="M416 128V224L256 288L96 224V128" stroke="#f59e0b" stroke-width="24" fill="none"/>
+  
+  <!-- nt Text in cap -->
+  <text x="256" y="136" font-family="'Brush Script MT', cursive, Georgia, serif" font-size="85" font-weight="bold" font-style="italic" fill="#1e40af" text-anchor="middle" dominant-baseline="middle" style="font-weight: 700; letter-spacing: 4px;">nt</text>
+  
+  <!-- Center line -->
+  <line x1="256" y1="144" x2="256" y2="368" stroke="#1e40af" stroke-width="24" opacity="0.5"/>
+</svg>
